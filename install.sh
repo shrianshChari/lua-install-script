@@ -16,3 +16,4 @@ cd ..
 
 # Removing lua's repo
 rm -rf ./lua-5.4.4
+rm -rf lua-5.4.4.tar.gz
